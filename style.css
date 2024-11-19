@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    background-color: grey;
+}
+.a{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+ul{
+    
+    
+        margin-left: auto;
+        margin-right: auto;
+        width: 8%;
+        font-size: 25px;
+}
+h2 {
+    color: blue;
+    text-align: center;
+    
+}
